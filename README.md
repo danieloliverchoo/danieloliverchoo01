@@ -12,7 +12,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/danieloliverchoo/danieloliverchoo01/blob/main/Boy.png)
+![alt text](https://github.com/danieloliverchoo/danieloliverchoo01/blob/main/images/Boy%20(Thumbnail).png)
 
 <!-- Add your details -->
 
